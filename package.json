@@ -1,15 +1,15 @@
 {
-  "name": "countries-project",
+  "name": "countries",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Dmytro-Urbanovych.github.io/countries-project",
+  "homepage": "https://Dmytro-Urbanovych.github.io/countries",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /countries-project/"
+    "build": "parcel build src/*.html --public-url /countries/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dmytro-Urbanovych/countries-project.git"
+    "url": "git+https://github.com/Dmytro-Urbanovych/countries.git"
   },
   "keywords": [],
   "author": "",
